@@ -1,4 +1,5 @@
 # Plan Of Action
+
 To Do Day 2: 5 Days Challenge JavaScript:
     1.Create Wireframe                                                                  -> Done
     2.Set up the base HTML Structure                                                    -> Done
@@ -33,3 +34,16 @@ To Do Day 3: 5 Days Challenge JavaScript:                                       
     1.Display Real World Store Data                                                     -> 
     2.We'll create an info window for every single store marker                         -> 
     3.Create engaging user experience to higlight the store on its selection            ->
+
+
+
+To Do Homework:
+    1.Show the store info in the Google Maps Marker
+    2.Make the stores list interactive with the map
+    3.
+
+To Do Day 4: 5 Days Challenge JavaScript:
+    1.Complete the stylelistfor the marker into window                                  -> Done
+    2.Open the info window marker on store selection in stores list                     -> Done  
+    3.Allow a user to search for the stores in a zip                                    -> Done
+    4.Add a beautiful transition on the hover of an individual store                    -> Done
